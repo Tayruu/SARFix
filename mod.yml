@@ -1,7 +1,7 @@
 title: Secret Ansem Reports Fix
 originalAuthor: Aether/Tayruu
 game: kh2
-description: Fixes the width of the "Secret Ansem Report X" strings in the Item Obtained popup.
+description: Fixes the width of the "Secret Ansem Report X" strings, amongst others, in the Item Obtained popup.
 #
 assets:
 - name: msg/us/sys.bar
