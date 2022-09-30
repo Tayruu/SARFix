@@ -1,39 +1,57 @@
-﻿- id: 14010
+# Ansem Reports
+- id: 0x36BA
   en: >-
    {:width 84}Secret Ansem Report 1
-- id: 14012
+- id: 0x36BC
   en: >-
    {:width 84}Secret Ansem Report 2
-- id: 14014
+- id: 0x36BE
   en: >-
    {:width 84}Secret Ansem Report 3
-- id: 14016
+- id: 0x36C0
   en: >-
    {:width 84}Secret Ansem Report 4
-- id: 14018
+- id: 0x36C2
   en: >-
    {:width 84}Secret Ansem Report 5
-- id: 14020
+- id: 0x36C4
   en: >-
    {:width 84}Secret Ansem Report 6
-- id: 14022
+- id: 0x36C6
   en: >-
    {:width 84}Secret Ansem Report 7
-- id: 14024
+- id: 0x36C8
   en: >-
    {:width 84}Secret Ansem Report 8
-- id: 14026
+- id: 0x36CA
   en: >-
    {:width 84}Secret Ansem Report 9
-- id: 14028
+- id: 0x36CC
   en: >-
    {:width 84}Secret Ansem Report 10
-- id: 14030
+- id: 0x36CE
   en: >-
    {:width 84}Secret Ansem Report 11
-- id: 14032
+- id: 0x36D0
   en: >-
    {:width 84}Secret Ansem Report 12
-- id: 14034
+- id: 0x36D2
   en: >-
    {:width 84}Secret Ansem Report 13
+# Stat levelups
+- id: 0x0AE1
+  en: >-
+   {:width 85}Maximum AP Increased!
+- id: 0x0AE2
+  en: >-
+   {:width 85}Maximum HP Increased!
+- id: 0x0AE3
+  en: >-
+   {:width 85}Maximum MP Increased!
+- id: 0x0AE6
+  en: >-
+   {:width 85}Gained Accessory Slot!
+# Misc items
+- id: 0x4FAF
+  en: >-
+   {:width 84}Proof of Nonexistence
