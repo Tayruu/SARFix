@@ -48,6 +48,9 @@
 - id: 0x0AE3
   en: >-
    {:width 85}Maximum MP Increased!
+- id: 0x0AE4
+  en: >-
+   {:width 80}Drive Gauge Powered Up!   
 - id: 0x0AE6
   en: >-
    {:width 85}Gained Accessory Slot!
